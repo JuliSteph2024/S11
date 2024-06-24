@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d1ff95;
+    margin: 20px;
+}
+.indice {
+    border: 1px solid #1303a8;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(138, 114, 226, 0.568);
+    background-color: #fff;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+}
+ul {
+    padding: 0;
+    margin: 30px;
+}
+a {
+    text-decoration: none;
+    color: #333;
+}
+
